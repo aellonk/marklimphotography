@@ -14,7 +14,12 @@ $(document).ready(function(){
     cssEase: 'ease',
     appendArrows: $('.button')
   });
+
 });
+
+
+
+
 
 
 
