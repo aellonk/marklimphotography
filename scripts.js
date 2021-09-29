@@ -5,7 +5,7 @@ $(document).ready(function(){
     mobileFirst: true,
 	  slidesToShow: 2,
     slidesToScroll: 2,
-    initialSlide: 152,
+    initialSlide: 0,
     arrows: true,    
     dots: false,
     infinite: true,
