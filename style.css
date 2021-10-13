@@ -147,7 +147,7 @@ outline: none !important;
 .full-width-xl {
   background-position: center;
   height: 613px;
-  width: 920px;
+  width: 940px;
 }
 .full-width {
   height: 613px;
@@ -554,7 +554,7 @@ div.slick-active{
 }
 
 iframe {
-  width: 1000px;
+  width: 995px;
   height: 563px;
   margin: 0 auto;
   display: block;
@@ -8410,290 +8410,289 @@ iframe {
   width: 400px;
 }
 
+@media screen and (min-height: 645px) and (max-height: 722px) and (max-width: 935px) and (-webkit-min-device-pixel-ratio: 1) {
+  .slider {
+    width: 620px;
+  }
+
+  .white-left {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+  .white-right {
+    height: 400px;
+    width: 300px;
+  }
+  .image-left {
+    height: 400px;
+    width: 300px;
+    margin-right: 20px;
+  }
+  .image-right {
+    height: 400px;
+    width: 300px;
+  }
+  .image-left-711 {
+    height: 400px;
+    width: 266.5px;
+    margin-right: 53.5px;
+  }
+  .image-right-711 {
+    height: 400px;
+    width: 300px;
+  }
+  .full-width {
+    height: 400px;
+    width: 620px;
+  }
+  .full-width-xl {
+    height: 400px;
+    width: 620px;
+  }
+
+#img0_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
 }
 
-@media screen and (min-height: 645px) and (max-height: 722px) and (max-width: 935px) and (-webkit-min-device-pixel-ratio: 1) {
-    .slider {
-      width: 620px;
-    }
+#img1_personal {
+  height: 400px;
+  width: 300px;
+}
 
-    .white-left {
-      height: 400px;
-      width: 300px;
-      margin-right: 20px;
-    }
-    .white-right {
-      height: 400px;
-      width: 300px;
-    }
-    .image-left {
-      height: 400px;
-      width: 300px;
-      margin-right: 20px;
-    }
-    .image-right {
-      height: 400px;
-      width: 300px;
-    }
-    .image-left-711 {
-      height: 400px;
-      width: 266.5px;
-      margin-right: 53.5px;
-    }
-    .image-right-711 {
-      height: 400px;
-      width: 300px;
-    }
-    .full-width {
-      height: 400px;
-      width: 620px;
-    }
-    .full-width-xl {
-      height: 400px;
-      width: 620px;
-    }
+#img2_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img0_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img3_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img1_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img4_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img2_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img5_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img3_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img6_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img4_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img7_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img5_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img8_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img6_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img9_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img7_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img10_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img8_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img11_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img9_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img12_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img10_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img13_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img11_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img14_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img12_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img15_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img13_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img16_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img14_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img17_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img15_personal {
-    height: 400px;
-    width: 300px;
-  }
-
-  #img16_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
-
-  #img17_personal {
-    height: 400px;
-    width: 300px;
-  }
-
-  #img18_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img18_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
 
-  #img19_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img19_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img20_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img20_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img21_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img21_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img22_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img22_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img23_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img23_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img24_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img24_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img25_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img25_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img26_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img26_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img27_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img27_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img28_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img28_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img29_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img29_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img30_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img30_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img31_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img31_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img32_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img32_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img33_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img33_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img34_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img34_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img35_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img35_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img36_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img36_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img37_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img37_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img38_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img38_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img39_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img39_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img40_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img40_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img41_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img41_personal {
+  height: 400px;
+  width: 300px;
+}
 
-  #img42_personal {
-    height: 400px;
-    width: 300px;
-    margin-right: 20px;
-  }
+#img42_personal {
+  height: 400px;
+  width: 300px;
+  margin-right: 20px;
+}
 
-  #img43_personal {
-    height: 400px;
-    width: 300px;
-  }
+#img43_personal {
+  height: 400px;
+  width: 300px;
+}
+
 }
 
