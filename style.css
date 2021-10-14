@@ -2425,14 +2425,13 @@ span a.number {
   .align-bottom {
     bottom: 12.5%;
     left: 8%;
-}
+  }
 
-_::-webkit-:host:not(:root:root), .align-bottom { bottom: 6.5%; left: 10%; } 
+  _::-webkit-:host:not(:root:root), .align-bottom { bottom: 6.5%; left: 10%; } 
 
   .nav-top ul {
     padding-left: 52%;
   } 
-
 
   .nav-top ul li {
     display: initial;
@@ -2738,26 +2737,26 @@ span a.number {
 
 }
 
-@media screen and (min-width: 1200px) and (max-width: 1299px) and (-webkit-min-device-pixel-ratio: 1) { 
+/* @media screen and (min-width: 1200px) and (max-width: 1299px) and (-webkit-min-device-pixel-ratio: 1) { 
 .align-bottom {
     left: 9%;
-  }
+  } */
 
 /*_::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; } */
 
-}
+/* } */
 
-@media screen and (min-width: 1400px) and (max-width: 1499px) and (-webkit-min-device-pixel-ratio: 1) { 
+@media screen and (min-width: 1200px) and (max-width: 1499px) and (-webkit-min-device-pixel-ratio: 1) { 
   .align-bottom {
     bottom: 10%;
-    left: 14%;
+    left: 6%;
   }
 
 _::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; } 
 
 }
 
-@media screen and (min-width: 1500px) and (max-width: 1599px) and (-webkit-min-device-pixel-ratio: 1)  { 
+@media screen and (min-width: 1500px) and (max-width: 1799px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
     bottom: 4%;
     left: 5%;
@@ -3061,7 +3060,7 @@ _::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; }
 
 }
 
-@media screen and (min-width: 1600px) and (max-width: 1699px) and (-webkit-min-device-pixel-ratio: 1)  { 
+/* @media screen and (min-width: 1600px) and (max-width: 1699px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
     bottom: 7.5%;
     left: 10%;
@@ -3689,7 +3688,7 @@ _::-webkit-:host:not(:root:root), .align-bottom { bottom: 15%; }
     margin-right: 86.75px;
   }
 
-}
+} */
 
 @media screen and (min-width: 1800px) and (max-width: 1899px) and (-webkit-min-device-pixel-ratio: 1)  { 
   .align-bottom {
